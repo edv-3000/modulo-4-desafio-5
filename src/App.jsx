@@ -7,7 +7,7 @@ import Cart from './pages/cart'
 import Pizzasx from './pages/pizzas'
 import { Routes, Route } from 'react-router-dom'
 import Profile from './pages/profile'
-import NotFound from './pages/notfound'
+import NotFound from './pages/Notfound'
 import Header from "./header";
 
 function App() {
