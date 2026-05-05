@@ -1,0 +1,33 @@
+
+
+header{
+   position: relative;
+   margin-bottom: 100px;
+}
+header img{
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(60%);
+}
+.pheader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.imgcard{
+  height: 150px;
+}

@@ -1,0 +1,1 @@
+adjunto tarea, intente hacer el deploy en vercel, pero me marca error y no supe que mas hacer, entrego tarea de esta manera si me puede dar una guia de por que el error me ayudaria mucho para futuro muchas gracias
