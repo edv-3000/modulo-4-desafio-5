@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import { Pizzas } from "../pizzass"
 
 const Pizzasx = () => {
-  const [pizza, setPizza] = useState(null)
+  const [pizza, setPizza] = useState([])
 
   useEffect(() => {
     const pizzaEncontrada = Pizzas.find(p => p.id === "P001")
